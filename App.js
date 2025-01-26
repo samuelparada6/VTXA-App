@@ -1,24 +1,6 @@
-// import { StatusBar } from 'expo-status-bar';
-// import { StyleSheet, Text, View } from 'react-native';
-
-// export default function App() {
-//   return (
-//     <View style={styles.container}>
-//       <Text>Open up App.js to start working on your app!</Text>
-//       <StatusBar style="auto" />
-//     </View>
-//   );
-// }
-
-// const styles = StyleSheet.create({
-//   container: {
-//     flex: 1,
-//     backgroundColor: '#fff',
-//     alignItems: 'center',
-//     justifyContent: 'center',
-//   },
-// });
-
+// Author: Samuel Parada
+// Starting back up on January 25th, 2025
+// wowzas
 
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
@@ -101,8 +83,8 @@ const styles = StyleSheet.create({
     bottom: 20,
     left: 20,
     right: 20,
-    height: 70,
-    borderRadius: 35,
+    height: 50,
+    borderRadius: 45,
     backgroundColor: '#1e1e1e',
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 5 },
